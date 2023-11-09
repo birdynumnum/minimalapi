@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "AcXToetoC7OQIOwbnvQ+Ja8WUEVP0L91ZP2apcZ+Ez0=",
+  "Source": "MinimalApiExample",
+  "BasePath": "_content/MinimalApiExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MinimalApiExample\\wwwroot",
+      "Source": "MinimalApiExample",
+      "ContentRoot": "D:\\temp\\MinimalApiExample\\wwwroot\\",
+      "BasePath": "_content/MinimalApiExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\temp\\MinimalApiExample\\wwwroot\\index.html",
+      "SourceId": "MinimalApiExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\temp\\MinimalApiExample\\wwwroot\\",
+      "BasePath": "_content/MinimalApiExample",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
